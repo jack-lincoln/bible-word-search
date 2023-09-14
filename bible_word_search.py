@@ -115,7 +115,7 @@ class MainWindow(QtWidgets.QMainWindow):
 
         # Determine whether occurrence_label will read 'occurrence' or 'occurrences'
         self.sing_or_plural = ['occurrence', 'occurrences']
-        self.plurality = self.sing_or_plural[0]
+        self.plurality = self.sing_or_plural[1]
 
         # The text box where the user will type a word to search for
         self.text_box = QtWidgets.QTextEdit()
