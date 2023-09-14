@@ -2,7 +2,8 @@
 
 Bible Word Search is a simple, user-friendly GUI application for searching the Bible for user-inputted text. With the exception of a few brief uses of HTML, it uses Python 3. 
 
-![bible-word-search_screenshot-01](https://github.com/jack-lincoln/bible-word-search/assets/65179426/d37b47d7-723e-49f8-bae2-e9850583c858)
+![bible-word-search_screenshot-01](https://github.com/jack-lincoln/bible-word-search/assets/65179426/40eda47b-9c98-4498-a3ad-b33d4c2d81c6)
+
 
 ## Requirements
 Bible Word Search requires the following packages to run:<br />
